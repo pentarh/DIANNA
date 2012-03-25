@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>org.netbeans.modules.java.j2seproject</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/j2se-project/3">
+            <name>DIANNA</name>
+            <source-roots>
+                <root id="src.main.dir"/>
+                <root id="src.main2.dir"/>
+            </source-roots>
+            <test-roots>
+                <root id="test.test.dir"/>
+                <root id="test.test2.dir"/>
+            </test-roots>
+        </data>
+        <libraries xmlns="http://www.netbeans.org/ns/ant-project-libraries/1">
+            <definitions>/home/pentarh/NetBeansProjects/libs/nblibraries.properties</definitions>
+        </libraries>
+    </configuration>
+</project>

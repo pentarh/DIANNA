@@ -1,0 +1,12 @@
+DIANNA is the Decentralized Internet Names and Numbers Authority
+
+See more at:
+* Wiki: http://dianna-project.org/wiki/
+* Forum: http://dianna-project.org/forum/
+
+Java dependencies:
+* bcprov-jdk15-1.46.jar (from maven repo)
+* derby-10.8.2.2.jar (from maven repo)
+* protobuf-java-2.4.1.jar
+* slf4j-api-1.6.4.jar and your binder JAR, possible slf4j-simple-1.6.4.jar
+
