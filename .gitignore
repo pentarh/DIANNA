@@ -1,1 +1,4 @@
 *.dat
+target
+.classpath
+.project
